@@ -17,3 +17,5 @@ java -cp out Main
 
 ## Autor
 ApellidoNombre
+
+Versión 1.1
